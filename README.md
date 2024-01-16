@@ -2,7 +2,7 @@
 Research Repository Recommendation and Management System, a C++ Data Structures and Algorithms (DSA) project designed to  interact with extensive repositories of research papers published by the faculty of university with interactive command line interface.
 ## FUNCTIONALITIES:
 ### Search Functionality:
--> Users can search for specific terms within research paper titles, and matching papers are displayed.
+-> Users can search for specific terms within research paper titles, and matching papers are displayed.<br>
 ### Author Search:
 -> Users can search for research papers based on author names, providing a convenient way to locate papers by specific authors.
 ### Recommendation System:
