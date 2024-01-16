@@ -4,17 +4,17 @@ Research Repository Recommendation and Management System, a C++ Data Structures 
 ### Search Functionality:
 -> Users can search for specific terms within research paper titles, and matching papers are displayed.<br>
 ### Author Search:
--> Users can search for research papers based on author names, providing a convenient way to locate papers by specific authors.
+-> Users can search for research papers based on author names, providing a convenient way to locate papers by specific authors.<br>
 ### Recommendation System:
--> The system recommends papers based on matching keywords with the user's areas of interest.
--> Recommendations are personalized and evolve over time by considering the user's view history.
+-> The system recommends papers based on matching keywords with the user's areas of interest.<br>
+-> Recommendations are personalized and evolve over time by considering the user's view history.<br>
 ### Statistical Record:
--> Displays total counts of users (readers and authors) and research papers in the repository.
+-> Displays total counts of users (readers and authors) and research papers in the repository.<br>
 ### User View History:
--> Utilizes stacks to show recently viewed papers on top.
--> Records the exact time and date of each viewing.
--> Continuous improvement of recommendations based on the user's view history.
+-> Utilizes stacks to show recently viewed papers on top.<br>
+-> Records the exact time and date of each viewing.<br>
+-> Continuous improvement of recommendations based on the user's view history.<br>
 ## Data Structures Used:
--> Binary Trees and Traversals
--> Stacks and Queues
--> Arrays
+-> Binary Trees and Traversals<br>
+-> Stacks and Queues<br>
+-> Arrays<br>
