@@ -4,15 +4,15 @@ Research Repository Recommendation and Management System, a C++ Data Structures 
 <br>
 ![image](https://github.com/rafiya618/DSA-C-Research-Paper-Recommendations-and-Managament-Respositiory/assets/122554649/27b14f47-91b1-40c6-9ec5-012d3f3699c2)
 <br>
-###-> user can also select their areas of interest in order to see the recommendations:
+### -> user can also select their areas of interest in order to see the recommendations:
 <br>
 ![image](https://github.com/rafiya618/DSA-C-Research-Paper-Recommendations-and-Managament-Respositiory/assets/122554649/6bc080b3-3993-4905-837b-bace22d544ca)
 <br>
-###->Login (Authentication):
+### ->Login (Authentication):
 <br>
 ![image](https://github.com/rafiya618/DSA-C-Research-Paper-Recommendations-and-Managament-Respositiory/assets/122554649/26c3eced-8a07-49cb-9b59-8245b37254f2)
 <br>
-###->Welcome Page with Reccomedations upon succesful user login:
+### ->Welcome Page with Reccomedations upon succesful user login:
 <br>
 ![image](https://github.com/rafiya618/DSA-C-Research-Paper-Recommendations-and-Managament-Respositiory/assets/122554649/c84ddadf-9403-456b-bba7-91024b4eae6f)
 <br>
