@@ -1,4 +1,4 @@
-# DSA-C-Research-Paper-Recommendations-and-Managament-Respositiory
+# Research-Paper-Recommendations-and-Managament-Respositiory
 Research Repository Recommendation and Management System, a C++ Data Structures and Algorithms (DSA) project designed to  interact with extensive repositories of research papers published by the faculty of university with interactive command line interface and role based authentication process.<br>
 ![image](https://github.com/rafiya618/DSA-C-Research-Paper-Recommendations-and-Managament-Respositiory/assets/122554649/cdd01c5a-922d-4037-9f24-128b9097c6fc)
 <br>
